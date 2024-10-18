@@ -1,4 +1,3 @@
 flet
 sqlalchemy
-numpy
 supabase
